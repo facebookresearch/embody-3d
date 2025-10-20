@@ -39,7 +39,7 @@ In these cases, the text annotation is in the filename of the sequence.
 
 ## Download Data
 
-To download the full dataset, you must first get access by filling out the [release form](TODO)
+To download the full dataset, you must first get access by filling out the [release form](https://www.meta.com/emerging-tech/codec-avatars/embody-3d)
 
 >[!WARNING]
 >If you do not fill out the release form, you will be blocked from downloading the files, and the download script will not work.
