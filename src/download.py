@@ -22,9 +22,9 @@ def main(args):
                 download_line.append(line.strip())
 
     for line in tqdm(download_line):
-        command = f"wget {line}"
-        e = subprocess.run(command, shell=True)
-        if e != 0:
+        filename = line.split("/")[-1].split("?")[0]
+        e = subprocess.run(["wget", "-O", filename, line])
+        if e.returncode != 0:
             print(f"Error downloading {line}")
             exit(1)
         print("Downloaded", line)
