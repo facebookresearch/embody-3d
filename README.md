@@ -204,3 +204,7 @@ If you use this dataset, please consider citing this work via:
   note      = {arXiv preprint},
 }
 ```
+
+## License
+
+This toolbox presented in this repository is licensed under the [LICENSE](https://github.com/facebookresearch/embody-3d/blob/main/LICENSE). Note that the dataset itself is licensed under the XRCIA license, see the dataset webpage.
