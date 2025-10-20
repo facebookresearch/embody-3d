@@ -44,20 +44,21 @@ To download the full dataset, you must first get access by filling out the [rele
 >[!WARNING]
 >If you do not fill out the release form, you will be blocked from downloading the files, and the download script will not work.
 
-Once you have filled out the release form, you will get a list of download links.
-If you want to download everything, you can run:
+Once you have filled out the release form, you will get a list of 21 download links.
+**Please copy the download links into a .txt file.**
+For instance, if you copy the links to a file `download.txt`, you can download the complete data by running the following:
 ```
-python src/download.py --src test_file.txt
+python src/download.py --src download.txt
 ```
 
 If you want to download only certain features, you can set the flag `--feat`. For instance if you want to download only the text
 ```
-python src/download.py --src test_file.txt --feat text
+python src/download.py --src download.txt --feat text
 ```
 
 Similarly, if you want to donwload only certain categories, you an set the flag `--category`. For instance, to just download charades,
 ```
-python src/download.py --src test_file.txt --category charades
+python src/download.py --src download.txt --category charades
 ```
 
 >[!Tip]
