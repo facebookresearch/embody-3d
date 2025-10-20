@@ -1,0 +1,2404 @@
+{
+    "QZX685": {
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--015889-017238": {
+            "length": 1350,
+            "id": 0,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--017389-022635": {
+            "length": 5247,
+            "id": 4,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_5--022657-029402": {
+            "length": 6746,
+            "id": 6,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UEG002": {
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--015889-017238": {
+            "length": 1350,
+            "id": 1,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--017389-022635": {
+            "length": 5247,
+            "id": 5,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_5--022657-029402": {
+            "length": 6746,
+            "id": 8,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "TDK971": {
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--015889-022636": {
+            "length": 6748,
+            "id": 2,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_5--022657-029402": {
+            "length": 6746,
+            "id": 7,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "XSS011": {
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_1--015889-022636": {
+            "length": 6748,
+            "id": 3,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1321--TDK971--XSS011--UEG002--QZX685--pilot--MotionPrior3--Hand_Duo_5--022657-029402": {
+            "length": 6746,
+            "id": 9,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "OKH988": {
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_1--015735-016784": {
+            "length": 1050,
+            "id": 10,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_1--016935-022478": {
+            "length": 5544,
+            "id": 14,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_5--022500-029238": {
+            "length": 6739,
+            "id": 16,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KGG187": {
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_1--015735-022479": {
+            "length": 6745,
+            "id": 11,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_5--022500-029238": {
+            "length": 6739,
+            "id": 15,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "PCG445": {
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_1--015735-022479": {
+            "length": 6745,
+            "id": 12,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_5--022500-029238": {
+            "length": 6739,
+            "id": 17,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ZJW449": {
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_1--015735-022479": {
+            "length": 6745,
+            "id": 13,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250505--1505--ZJW449--KGG187--PCG445--OKH988--pilot--MotionPrior3--Hand_Duo_5--022500-029238": {
+            "length": 6739,
+            "id": 18,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HWG246": {
+        "c--20250506--0935--HWG246--XCM975--pilot--MotionPrior3--Hand_Duo_3--075678-082422": {
+            "length": 6745,
+            "id": 19,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--0935--HWG246--XCM975--pilot--MotionPrior3--Hand_Duo_4--068914-075657": {
+            "length": 6744,
+            "id": 21,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "XCM975": {
+        "c--20250506--0935--HWG246--XCM975--pilot--MotionPrior3--Hand_Duo_3--075678-082422": {
+            "length": 6745,
+            "id": 20,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--0935--HWG246--XCM975--pilot--MotionPrior3--Hand_Duo_4--068914-075657": {
+            "length": 6744,
+            "id": 22,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HRZ838": {
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_3--015857-022607": {
+            "length": 6751,
+            "id": 23,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_5--022628-029382": {
+            "length": 6755,
+            "id": 27,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QEY601": {
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_3--015857-022607": {
+            "length": 6751,
+            "id": 24,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_5--022628-029382": {
+            "length": 6755,
+            "id": 28,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "TXK235": {
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_3--015857-022607": {
+            "length": 6751,
+            "id": 25,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_5--022628-029382": {
+            "length": 6755,
+            "id": 29,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ZLQ232": {
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_3--015857-022607": {
+            "length": 6751,
+            "id": 26,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1254--TXK235--QEY601--ZLQ232--HRZ838--pilot--MotionPrior3--Hand_Duo_5--022628-029382": {
+            "length": 6755,
+            "id": 30,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CIZ354": {
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_3--022533-029277": {
+            "length": 6745,
+            "id": 31,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_5--015766-022512": {
+            "length": 6747,
+            "id": 35,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "JZY245": {
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_3--022533-029277": {
+            "length": 6745,
+            "id": 32,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_5--015766-022512": {
+            "length": 6747,
+            "id": 36,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UCY281": {
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_3--022533-029277": {
+            "length": 6745,
+            "id": 33,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_5--015766-022512": {
+            "length": 6747,
+            "id": 37,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VCF851": {
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_3--022533-029277": {
+            "length": 6745,
+            "id": 34,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250506--1520--CIZ354--VCF851--UCY281--JZY245--pilot--MotionPrior3--Hand_Duo_5--015766-022512": {
+            "length": 6747,
+            "id": 38,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "NGK823": {
+        "c--20250507--0939--NGK823--PZA883--pilot--MotionPrior3--Hand_Duo_2--068931-075670": {
+            "length": 6740,
+            "id": 39,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--0939--NGK823--PZA883--pilot--MotionPrior3--Hand_Duo_5--075691-082436": {
+            "length": 6746,
+            "id": 41,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "PZA883": {
+        "c--20250507--0939--NGK823--PZA883--pilot--MotionPrior3--Hand_Duo_2--068931-075670": {
+            "length": 6740,
+            "id": 40,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--0939--NGK823--PZA883--pilot--MotionPrior3--Hand_Duo_5--075691-082436": {
+            "length": 6746,
+            "id": 42,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KEX363": {
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_1--075664-077313": {
+            "length": 1650,
+            "id": 43,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_1--077464-079563": {
+            "length": 2100,
+            "id": 45,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_1--079714-082408": {
+            "length": 2695,
+            "id": 46,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_3--068898-075643": {
+            "length": 6746,
+            "id": 48,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "GYX784": {
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_1--075664-082409": {
+            "length": 6746,
+            "id": 44,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1116--GYX784--KEX363--pilot--MotionPrior3--Hand_Duo_3--068898-075643": {
+            "length": 6746,
+            "id": 47,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "COT885": {
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_2--015884-022631": {
+            "length": 6748,
+            "id": 49,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_4--022653-029394": {
+            "length": 6742,
+            "id": 53,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "DRY401": {
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_2--015884-022631": {
+            "length": 6748,
+            "id": 50,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_4--022653-029394": {
+            "length": 6742,
+            "id": 54,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "DYZ395": {
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_2--015884-022631": {
+            "length": 6748,
+            "id": 51,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_4--022653-029394": {
+            "length": 6742,
+            "id": 55,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ODP891": {
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_2--015884-022631": {
+            "length": 6748,
+            "id": 52,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1318--DRY401--ODP891--DYZ395--COT885--pilot--MotionPrior3--Hand_Duo_4--022653-029394": {
+            "length": 6742,
+            "id": 56,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "JWI718": {
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_2--026849-033598": {
+            "length": 6750,
+            "id": 57,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_4--020091-026828": {
+            "length": 6738,
+            "id": 61,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "TLV140": {
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_2--026849-033598": {
+            "length": 6750,
+            "id": 58,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_4--020091-026828": {
+            "length": 6738,
+            "id": 62,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UUB057": {
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_2--026849-033598": {
+            "length": 6750,
+            "id": 59,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_4--020091-026828": {
+            "length": 6738,
+            "id": 63,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VTW653": {
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_2--026849-033598": {
+            "length": 6750,
+            "id": 60,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250507--1520--JWI718--TLV140--VTW653--UUB057--pilot--MotionPrior3--Hand_Duo_4--020091-026828": {
+            "length": 6738,
+            "id": 64,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VYX882": {
+        "c--20250508--0947--YQW182--VYX882--pilot--MotionPrior3--Hand_Duo_1--069890-076625": {
+            "length": 6736,
+            "id": 65,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--0947--YQW182--VYX882--pilot--MotionPrior3--Hand_Duo_2--076646-083395": {
+            "length": 6750,
+            "id": 67,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "YQW182": {
+        "c--20250508--0947--YQW182--VYX882--pilot--MotionPrior3--Hand_Duo_1--069890-076625": {
+            "length": 6736,
+            "id": 66,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--0947--YQW182--VYX882--pilot--MotionPrior3--Hand_Duo_2--076646-083395": {
+            "length": 6750,
+            "id": 68,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "OTR353": {
+        "c--20250508--1123--ZJW644--OTR353--pilot--MotionPrior3--Hand_Duo_3--076386-083142": {
+            "length": 6757,
+            "id": 69,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1123--ZJW644--OTR353--pilot--MotionPrior3--Hand_Duo_5--069621-076365": {
+            "length": 6745,
+            "id": 71,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ZJW644": {
+        "c--20250508--1123--ZJW644--OTR353--pilot--MotionPrior3--Hand_Duo_3--076386-083142": {
+            "length": 6757,
+            "id": 70,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1123--ZJW644--OTR353--pilot--MotionPrior3--Hand_Duo_5--069621-076365": {
+            "length": 6745,
+            "id": 72,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HNG246": {
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_3--015775-022528": {
+            "length": 6754,
+            "id": 73,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_4--022549-029285": {
+            "length": 6737,
+            "id": 77,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KIJ960": {
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_3--015775-022528": {
+            "length": 6754,
+            "id": 74,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_4--022549-029285": {
+            "length": 6737,
+            "id": 78,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QAA297": {
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_3--015775-022528": {
+            "length": 6754,
+            "id": 75,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_4--022549-029285": {
+            "length": 6737,
+            "id": 79,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "TKD513": {
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_3--015775-022528": {
+            "length": 6754,
+            "id": 76,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1413--QAA297--KIJ960--TKD513--HNG246--pilot--MotionPrior3--Hand_Duo_4--022549-029285": {
+            "length": 6737,
+            "id": 80,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "FZC452": {
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_3--015759-022501": {
+            "length": 6743,
+            "id": 81,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_5--022522-029270": {
+            "length": 6749,
+            "id": 85,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IGM421": {
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_3--015759-022501": {
+            "length": 6743,
+            "id": 82,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_5--022522-029270": {
+            "length": 6749,
+            "id": 86,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ISD611": {
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_3--015759-022501": {
+            "length": 6743,
+            "id": 83,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_5--022522-029270": {
+            "length": 6749,
+            "id": 87,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VJE343": {
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_3--015759-022501": {
+            "length": 6743,
+            "id": 84,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250508--1534--VJE343--IGM421--FZC452--ISD611--pilot--MotionPrior3--Hand_Duo_5--022522-029270": {
+            "length": 6749,
+            "id": 88,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RNX769": {
+        "c--20250509--1151--RNX769--SPD991--pilot--MotionPrior3--Hand_Duo_1--076418-083167": {
+            "length": 6750,
+            "id": 89,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1151--RNX769--SPD991--pilot--MotionPrior3--Hand_Duo_2--069657-076397": {
+            "length": 6741,
+            "id": 91,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "SPD991": {
+        "c--20250509--1151--RNX769--SPD991--pilot--MotionPrior3--Hand_Duo_1--076418-083167": {
+            "length": 6750,
+            "id": 90,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1151--RNX769--SPD991--pilot--MotionPrior3--Hand_Duo_2--069657-076397": {
+            "length": 6741,
+            "id": 92,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "AJW998": {
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--022658-023557": {
+            "length": 900,
+            "id": 93,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--023708-029399": {
+            "length": 5692,
+            "id": 97,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_5--015899-022637": {
+            "length": 6739,
+            "id": 101,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HUS622": {
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--022658-023557": {
+            "length": 900,
+            "id": 94,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--023708-029399": {
+            "length": 5692,
+            "id": 98,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_5--015899-022637": {
+            "length": 6739,
+            "id": 102,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KGS533": {
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--022658-023557": {
+            "length": 900,
+            "id": 95,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--023708-029399": {
+            "length": 5692,
+            "id": 99,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_5--015899-022348": {
+            "length": 6450,
+            "id": 100,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KQD573": {
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_2--022658-029400": {
+            "length": 6743,
+            "id": 96,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1348--KQD573--AJW998--HUS622--KGS533--pilot--MotionPrior3--Hand_Duo_5--015899-022637": {
+            "length": 6739,
+            "id": 103,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "NXR613": {
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_2--022520-029262": {
+            "length": 6743,
+            "id": 104,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_5--015747-022499": {
+            "length": 6753,
+            "id": 108,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RRJ502": {
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_2--022520-029262": {
+            "length": 6743,
+            "id": 105,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_5--015747-022499": {
+            "length": 6753,
+            "id": 109,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "WON015": {
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_2--022520-029262": {
+            "length": 6743,
+            "id": 106,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_5--015747-022499": {
+            "length": 6753,
+            "id": 110,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "XYF349": {
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_2--022520-029262": {
+            "length": 6743,
+            "id": 107,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250509--1537--WON015--NXR613--RRJ502--XYF349--pilot--MotionPrior3--Hand_Duo_5--015747-022499": {
+            "length": 6753,
+            "id": 111,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "GAV846": {
+        "c--20250512--0952--QKP650--GAV846--pilot--MotionPrior3--Hand_Duo_1--069911-071410": {
+            "length": 1500,
+            "id": 112,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--0952--QKP650--GAV846--pilot--MotionPrior3--Hand_Duo_1--071561-076658": {
+            "length": 5098,
+            "id": 114,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--0952--QKP650--GAV846--pilot--MotionPrior3--Hand_Duo_4--076680-083422": {
+            "length": 6743,
+            "id": 115,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QKP650": {
+        "c--20250512--0952--QKP650--GAV846--pilot--MotionPrior3--Hand_Duo_1--069911-076659": {
+            "length": 6749,
+            "id": 113,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--0952--QKP650--GAV846--pilot--MotionPrior3--Hand_Duo_4--076680-083422": {
+            "length": 6743,
+            "id": 116,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "AXN146": {
+        "c--20250512--1145--CIY045--AXN146--pilot--MotionPrior3--Hand_Duo_3--076647-083387": {
+            "length": 6741,
+            "id": 117,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1145--CIY045--AXN146--pilot--MotionPrior3--Hand_Duo_4--069877-076626": {
+            "length": 6750,
+            "id": 119,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CIY045": {
+        "c--20250512--1145--CIY045--AXN146--pilot--MotionPrior3--Hand_Duo_3--076647-083387": {
+            "length": 6741,
+            "id": 118,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1145--CIY045--AXN146--pilot--MotionPrior3--Hand_Duo_4--069877-076626": {
+            "length": 6750,
+            "id": 120,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HOE053": {
+        "c--20250512--1353--LFC192--HOE053--pilot--MotionPrior3--Hand_Duo_1--069802-076545": {
+            "length": 6744,
+            "id": 121,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1353--LFC192--HOE053--pilot--MotionPrior3--Hand_Duo_2--076566-083308": {
+            "length": 6743,
+            "id": 123,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "LFC192": {
+        "c--20250512--1353--LFC192--HOE053--pilot--MotionPrior3--Hand_Duo_1--069802-076545": {
+            "length": 6744,
+            "id": 122,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1353--LFC192--HOE053--pilot--MotionPrior3--Hand_Duo_2--076566-083308": {
+            "length": 6743,
+            "id": 124,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "DRD566": {
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--022542-024641": {
+            "length": 2100,
+            "id": 125,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--024792-029286": {
+            "length": 4495,
+            "id": 129,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_3--015774-022521": {
+            "length": 6748,
+            "id": 132,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KDO793": {
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--022542-024641": {
+            "length": 2100,
+            "id": 126,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--024792-029286": {
+            "length": 4495,
+            "id": 130,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_3--015774-022521": {
+            "length": 6748,
+            "id": 133,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "AGQ255": {
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--022542-029287": {
+            "length": 6746,
+            "id": 127,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_3--015774-022521": {
+            "length": 6748,
+            "id": 131,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VGK309": {
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_1--022542-029287": {
+            "length": 6746,
+            "id": 128,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250512--1553--VGK309--AGQ255--DRD566--KDO793--pilot--MotionPrior3--Hand_Duo_3--015774-022521": {
+            "length": 6748,
+            "id": 134,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KRH488": {
+        "c--20250513--0958--SUO378--KRH488--pilot--MotionPrior3--Hand_Duo_2--076821-083566": {
+            "length": 6746,
+            "id": 135,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250513--0958--SUO378--KRH488--pilot--MotionPrior3--Hand_Duo_5--070051-076800": {
+            "length": 6750,
+            "id": 136,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "SUO378": {
+        "c--20250513--0958--SUO378--KRH488--pilot--MotionPrior3--Hand_Duo_5--070801-076799": {
+            "length": 5999,
+            "id": 137,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "FSM311": {
+        "c--20250514--0940--FSM311--UAT953--pilot--MotionPrior3--Hand_Duo_3--049388-056136": {
+            "length": 6749,
+            "id": 138,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--0940--FSM311--UAT953--pilot--MotionPrior3--Hand_Duo_6--042621-049367": {
+            "length": 6747,
+            "id": 140,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UAT953": {
+        "c--20250514--0940--FSM311--UAT953--pilot--MotionPrior3--Hand_Duo_3--049388-056136": {
+            "length": 6749,
+            "id": 139,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--0940--FSM311--UAT953--pilot--MotionPrior3--Hand_Duo_6--042621-049367": {
+            "length": 6747,
+            "id": 141,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "OSS636": {
+        "c--20250514--1124--XRZ540--OSS636--pilot--MotionPrior3--Hand_Duo_1--042486-049234": {
+            "length": 6749,
+            "id": 142,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1124--XRZ540--OSS636--pilot--MotionPrior3--Hand_Duo_3--049255-056008": {
+            "length": 6754,
+            "id": 144,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "XRZ540": {
+        "c--20250514--1124--XRZ540--OSS636--pilot--MotionPrior3--Hand_Duo_1--042486-049234": {
+            "length": 6749,
+            "id": 143,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1124--XRZ540--OSS636--pilot--MotionPrior3--Hand_Duo_3--049255-056008": {
+            "length": 6754,
+            "id": 145,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VOL114": {
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_2--022644-023543": {
+            "length": 900,
+            "id": 146,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_2--023694-029386": {
+            "length": 5693,
+            "id": 150,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_3--015877-022623": {
+            "length": 6747,
+            "id": 154,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "LAG322": {
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_2--022644-029387": {
+            "length": 6744,
+            "id": 147,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_3--015877-022623": {
+            "length": 6747,
+            "id": 151,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "NMT017": {
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_2--022644-029387": {
+            "length": 6744,
+            "id": 148,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_3--015877-022623": {
+            "length": 6747,
+            "id": 152,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RSC632": {
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_2--022644-029387": {
+            "length": 6744,
+            "id": 149,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1321--NMT017--RSC632--LAG322--VOL114--pilot--MotionPrior3--Hand_Duo_3--015877-022623": {
+            "length": 6747,
+            "id": 153,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QND802": {
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_2--022042-028793": {
+            "length": 6752,
+            "id": 155,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_3--015281-022021": {
+            "length": 6741,
+            "id": 158,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VID932": {
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_2--022042-028793": {
+            "length": 6752,
+            "id": 156,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_3--015281-022021": {
+            "length": 6741,
+            "id": 159,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VRM794": {
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_2--022042-028793": {
+            "length": 6752,
+            "id": 157,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250514--1459--VID932--QND802--VRM794--pilot--MotionPrior3--Hand_Duo_3--015281-022021": {
+            "length": 6741,
+            "id": 160,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EGV712": {
+        "c--20250515--1000--LNZ071--EGV712--pilot--MotionPrior3--Hand_Duo_2--042594-049339": {
+            "length": 6746,
+            "id": 161,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1000--LNZ071--EGV712--pilot--MotionPrior3--Hand_Duo_6--049360-056108": {
+            "length": 6749,
+            "id": 163,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "LNZ071": {
+        "c--20250515--1000--LNZ071--EGV712--pilot--MotionPrior3--Hand_Duo_2--042594-049339": {
+            "length": 6746,
+            "id": 162,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1000--LNZ071--EGV712--pilot--MotionPrior3--Hand_Duo_6--049360-056108": {
+            "length": 6749,
+            "id": 164,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CDW884": {
+        "c--20250515--1135--IPR767--CDW884--pilot--MotionPrior3--Hand_Duo_1--049566-056305": {
+            "length": 6740,
+            "id": 165,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1135--IPR767--CDW884--pilot--MotionPrior3--Hand_Duo_2--042802-049545": {
+            "length": 6744,
+            "id": 167,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IPR767": {
+        "c--20250515--1135--IPR767--CDW884--pilot--MotionPrior3--Hand_Duo_1--049566-056305": {
+            "length": 6740,
+            "id": 166,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1135--IPR767--CDW884--pilot--MotionPrior3--Hand_Duo_2--042802-049545": {
+            "length": 6744,
+            "id": 168,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "PWX197": {
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--015798-016847": {
+            "length": 1050,
+            "id": 169,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--016998-022546": {
+            "length": 5549,
+            "id": 173,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_6--022568-029318": {
+            "length": 6751,
+            "id": 176,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "STH048": {
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--015798-016847": {
+            "length": 1050,
+            "id": 170,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--016998-022546": {
+            "length": 5549,
+            "id": 174,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_6--022568-029318": {
+            "length": 6751,
+            "id": 178,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "YOE132": {
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--015798-016847": {
+            "length": 1050,
+            "id": 171,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--016998-022546": {
+            "length": 5549,
+            "id": 175,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_6--022568-029318": {
+            "length": 6751,
+            "id": 179,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QVX595": {
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_4--015798-022547": {
+            "length": 6750,
+            "id": 172,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250515--1503--QVX595--PWX197--YOE132--STH048--pilot--MotionPrior3--Hand_Duo_6--022568-029318": {
+            "length": 6751,
+            "id": 177,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IKX785": {
+        "c--20250527--0945--RGM410--IKX785--pilot--MotionPrior3--Hand_Duo_2--048943-055683": {
+            "length": 6741,
+            "id": 180,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--0945--RGM410--IKX785--pilot--MotionPrior3--Hand_Duo_3--042172-048922": {
+            "length": 6751,
+            "id": 182,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RGM410": {
+        "c--20250527--0945--RGM410--IKX785--pilot--MotionPrior3--Hand_Duo_2--048943-055683": {
+            "length": 6741,
+            "id": 181,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--0945--RGM410--IKX785--pilot--MotionPrior3--Hand_Duo_3--042172-048922": {
+            "length": 6751,
+            "id": 183,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_3--015263-022010": {
+            "length": 6748,
+            "id": 186,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_4--022031-028770": {
+            "length": 6740,
+            "id": 189,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_2--015759-022513": {
+            "length": 6755,
+            "id": 193,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_6--022534-029280": {
+            "length": 6747,
+            "id": 197,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1002--RGM410--CEK348--pilot--MotionPrior3--Hand_Duo_3--048968-055716": {
+            "length": 6749,
+            "id": 228,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1002--RGM410--CEK348--pilot--MotionPrior3--Hand_Duo_5--042205-048947": {
+            "length": 6743,
+            "id": 230,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1138--RGM410--KFC179--pilot--MotionPrior3--Hand_Duo_3--043433-050181": {
+            "length": 6749,
+            "id": 231,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1138--RGM410--KFC179--pilot--MotionPrior3--Hand_Duo_5--050202-056950": {
+            "length": 6749,
+            "id": 234,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HKH002": {
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_3--015263-022010": {
+            "length": 6748,
+            "id": 184,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_4--022031-028770": {
+            "length": 6740,
+            "id": 188,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "NHJ334": {
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_3--015263-022010": {
+            "length": 6748,
+            "id": 185,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_4--022031-024430": {
+            "length": 2400,
+            "id": 187,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1252--RGM410--HKH002--NHJ334--pilot--MotionPrior3--Hand_Duo_4--024581-028769": {
+            "length": 4189,
+            "id": 190,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CFF788": {
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_2--015759-022513": {
+            "length": 6755,
+            "id": 191,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_6--022534-029280": {
+            "length": 6747,
+            "id": 195,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EFY085": {
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_2--015759-022513": {
+            "length": 6755,
+            "id": 192,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_6--022534-029280": {
+            "length": 6747,
+            "id": 196,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "YQL225": {
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_2--015759-022513": {
+            "length": 6755,
+            "id": 194,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250527--1538--RGM410--EFY085--CFF788--YQL225--pilot--MotionPrior3--Hand_Duo_6--022534-029280": {
+            "length": 6747,
+            "id": 198,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "SYC773": {
+        "c--20250528--0954--IIY246--SYC773--pilot--MotionPrior3--Hand_Duo_3--043502-045451": {
+            "length": 1950,
+            "id": 199,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--0954--IIY246--SYC773--pilot--MotionPrior3--Hand_Duo_3--045602-050248": {
+            "length": 4647,
+            "id": 201,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--0954--IIY246--SYC773--pilot--MotionPrior3--Hand_Duo_4--050270-057020": {
+            "length": 6751,
+            "id": 203,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IIY246": {
+        "c--20250528--0954--IIY246--SYC773--pilot--MotionPrior3--Hand_Duo_3--043502-050249": {
+            "length": 6748,
+            "id": 200,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--0954--IIY246--SYC773--pilot--MotionPrior3--Hand_Duo_4--050270-057020": {
+            "length": 6751,
+            "id": 202,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "DTH895": {
+        "c--20250528--1137--NBV482--DTH895--pilot--MotionPrior3--Hand_Duo_2--048958-050607": {
+            "length": 1650,
+            "id": 204,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1137--NBV482--DTH895--pilot--MotionPrior3--Hand_Duo_2--050758-055698": {
+            "length": 4941,
+            "id": 206,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1137--NBV482--DTH895--pilot--MotionPrior3--Hand_Duo_5--042192-048937": {
+            "length": 6746,
+            "id": 207,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "NBV482": {
+        "c--20250528--1137--NBV482--DTH895--pilot--MotionPrior3--Hand_Duo_2--048958-055699": {
+            "length": 6742,
+            "id": 205,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1137--NBV482--DTH895--pilot--MotionPrior3--Hand_Duo_5--042192-048937": {
+            "length": 6746,
+            "id": 208,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "BBC773": {
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_5--015773-022517": {
+            "length": 6745,
+            "id": 209,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_6--022538-029289": {
+            "length": 6752,
+            "id": 213,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EJM229": {
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_5--015773-022517": {
+            "length": 6745,
+            "id": 210,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_6--022538-029289": {
+            "length": 6752,
+            "id": 214,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "OOV106": {
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_5--015773-022517": {
+            "length": 6745,
+            "id": 211,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_6--022538-029289": {
+            "length": 6752,
+            "id": 215,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RQX584": {
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_5--015773-022517": {
+            "length": 6745,
+            "id": 212,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1347--OOV106--RQX584--EJM229--BBC773--pilot--MotionPrior3--Hand_Duo_6--022538-029289": {
+            "length": 6752,
+            "id": 216,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CKG723": {
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--016322-021121": {
+            "length": 4800,
+            "id": 217,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--021272-023073": {
+            "length": 1802,
+            "id": 221,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_6--023095-029840": {
+            "length": 6746,
+            "id": 223,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "SCO961": {
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--016322-021121": {
+            "length": 4800,
+            "id": 218,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--021272-023073": {
+            "length": 1802,
+            "id": 222,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_6--023095-029840": {
+            "length": 6746,
+            "id": 225,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "MKM710": {
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--016322-023074": {
+            "length": 6753,
+            "id": 219,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_6--023095-029840": {
+            "length": 6746,
+            "id": 224,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UWJ517": {
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_3--016322-023074": {
+            "length": 6753,
+            "id": 220,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250528--1517--UWJ517--MKM710--SCO961--CKG723--pilot--MotionPrior3--Hand_Duo_6--023095-029840": {
+            "length": 6746,
+            "id": 226,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CEK348": {
+        "c--20250529--1002--RGM410--CEK348--pilot--MotionPrior3--Hand_Duo_3--048968-055716": {
+            "length": 6749,
+            "id": 227,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1002--RGM410--CEK348--pilot--MotionPrior3--Hand_Duo_5--042205-048947": {
+            "length": 6743,
+            "id": 229,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KFC179": {
+        "c--20250529--1138--RGM410--KFC179--pilot--MotionPrior3--Hand_Duo_3--043733-050180": {
+            "length": 6448,
+            "id": 232,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1138--RGM410--KFC179--pilot--MotionPrior3--Hand_Duo_5--050202-056950": {
+            "length": 6749,
+            "id": 233,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "FHE545": {
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_2--015222-021963": {
+            "length": 6742,
+            "id": 235,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_4--021984-028737": {
+            "length": 6754,
+            "id": 238,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HSO975": {
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_2--015222-021963": {
+            "length": 6742,
+            "id": 236,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_4--021984-028737": {
+            "length": 6754,
+            "id": 239,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UPW868": {
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_2--015222-021963": {
+            "length": 6742,
+            "id": 237,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250529--1432--FHE545--UPW868--HSO975--pilot--MotionPrior3--Hand_Duo_4--021984-028737": {
+            "length": 6754,
+            "id": 240,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ECD941": {
+        "c--20250530--0950--ECD941--QVC422--pilot--MotionPrior3--Hand_Duo_3--049367-056113": {
+            "length": 6747,
+            "id": 241,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--0950--ECD941--QVC422--pilot--MotionPrior3--Hand_Duo_5--042600-049346": {
+            "length": 6747,
+            "id": 243,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "QVC422": {
+        "c--20250530--0950--ECD941--QVC422--pilot--MotionPrior3--Hand_Duo_3--049367-056113": {
+            "length": 6747,
+            "id": 242,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--0950--ECD941--QVC422--pilot--MotionPrior3--Hand_Duo_5--042600-049346": {
+            "length": 6747,
+            "id": 244,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "DTB091": {
+        "c--20250530--1128--DTB091--YHD933--pilot--MotionPrior3--Hand_Duo_3--042445-049197": {
+            "length": 6753,
+            "id": 245,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1128--DTB091--YHD933--pilot--MotionPrior3--Hand_Duo_6--049218-055969": {
+            "length": 6752,
+            "id": 247,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "YHD933": {
+        "c--20250530--1128--DTB091--YHD933--pilot--MotionPrior3--Hand_Duo_3--042445-049197": {
+            "length": 6753,
+            "id": 246,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1128--DTB091--YHD933--pilot--MotionPrior3--Hand_Duo_6--049218-055969": {
+            "length": 6752,
+            "id": 248,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CUX859": {
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_1--022667-029410": {
+            "length": 6744,
+            "id": 249,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_6--015899-022646": {
+            "length": 6748,
+            "id": 253,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EET010": {
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_1--022667-029410": {
+            "length": 6744,
+            "id": 250,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_6--015899-022646": {
+            "length": 6748,
+            "id": 254,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EUI309": {
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_1--022667-029410": {
+            "length": 6744,
+            "id": 251,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_6--015899-022646": {
+            "length": 6748,
+            "id": 255,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RUE115": {
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_1--022667-029410": {
+            "length": 6744,
+            "id": 252,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1325--RUE115--CUX859--EUI309--EET010--pilot--MotionPrior3--Hand_Duo_6--015899-022646": {
+            "length": 6748,
+            "id": 256,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ERV443": {
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_3--015824-022563": {
+            "length": 6740,
+            "id": 257,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_6--024100-029327": {
+            "length": 5228,
+            "id": 263,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EXX619": {
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_3--015824-022563": {
+            "length": 6740,
+            "id": 258,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_6--022584-029337": {
+            "length": 6754,
+            "id": 261,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "HDZ996": {
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_3--015824-022563": {
+            "length": 6740,
+            "id": 259,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_6--024100-029327": {
+            "length": 5228,
+            "id": 264,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IGM864": {
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_3--015824-022563": {
+            "length": 6740,
+            "id": 260,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250530--1502--IGM864--ERV443--EXX619--HDZ996--pilot--MotionPrior3--Hand_Duo_6--022584-029337": {
+            "length": 6754,
+            "id": 262,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "AFL441": {
+        "c--20250602--0955--ENY959--AFL441--pilot--MotionPrior3--Hand_Duo_1--049095-055833": {
+            "length": 6739,
+            "id": 265,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--0955--ENY959--AFL441--pilot--MotionPrior3--Hand_Duo_2--042326-049074": {
+            "length": 6749,
+            "id": 267,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ENY959": {
+        "c--20250602--0955--ENY959--AFL441--pilot--MotionPrior3--Hand_Duo_1--049095-055833": {
+            "length": 6739,
+            "id": 266,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--0955--ENY959--AFL441--pilot--MotionPrior3--Hand_Duo_2--042326-049074": {
+            "length": 6749,
+            "id": 268,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "EOK308": {
+        "c--20250602--1128--JTZ926--EOK308--pilot--MotionPrior3--Hand_Duo_2--043985-050724": {
+            "length": 6740,
+            "id": 269,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1128--JTZ926--EOK308--pilot--MotionPrior3--Hand_Duo_6--050745-057492": {
+            "length": 6748,
+            "id": 271,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "JTZ926": {
+        "c--20250602--1128--JTZ926--EOK308--pilot--MotionPrior3--Hand_Duo_2--043985-050724": {
+            "length": 6740,
+            "id": 270,
+            "text": 2,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1128--JTZ926--EOK308--pilot--MotionPrior3--Hand_Duo_6--050745-057492": {
+            "length": 6748,
+            "id": 272,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VUP896": {
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_4--022638-029382": {
+            "length": 6745,
+            "id": 273,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_6--015871-022617": {
+            "length": 6747,
+            "id": 277,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VVG329": {
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_4--022638-029382": {
+            "length": 6745,
+            "id": 274,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_6--015871-022617": {
+            "length": 6747,
+            "id": 278,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "WOZ485": {
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_4--022638-029382": {
+            "length": 6745,
+            "id": 275,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_6--015871-022617": {
+            "length": 6747,
+            "id": 279,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ZKN852": {
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_4--022638-029382": {
+            "length": 6745,
+            "id": 276,
+            "text": 4,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250602--1340--ZKN852--WOZ485--VUP896--VVG329--pilot--MotionPrior3--Hand_Duo_6--015871-022617": {
+            "length": 6747,
+            "id": 280,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "CLP086": {
+        "c--20250603--0920--ZEV868--CLP086--pilot--MotionPrior3--Hand_Duo_1--042247-048995": {
+            "length": 6749,
+            "id": 281,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--0920--ZEV868--CLP086--pilot--MotionPrior3--Hand_Duo_3--049016-055760": {
+            "length": 6745,
+            "id": 283,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "ZEV868": {
+        "c--20250603--0920--ZEV868--CLP086--pilot--MotionPrior3--Hand_Duo_1--042247-048995": {
+            "length": 6749,
+            "id": 282,
+            "text": 1,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--0920--ZEV868--CLP086--pilot--MotionPrior3--Hand_Duo_3--049016-055760": {
+            "length": 6745,
+            "id": 284,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "IMJ170": {
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_3--015835-022586": {
+            "length": 6752,
+            "id": 285,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--022607-028306": {
+            "length": 5700,
+            "id": 289,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--028457-029345": {
+            "length": 889,
+            "id": 293,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "JMQ748": {
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_3--015835-022586": {
+            "length": 6752,
+            "id": 286,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--022607-029346": {
+            "length": 6740,
+            "id": 292,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "KVD517": {
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_3--015835-022586": {
+            "length": 6752,
+            "id": 287,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--022607-028306": {
+            "length": 5700,
+            "id": 290,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--028457-029345": {
+            "length": 889,
+            "id": 294,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "RCX311": {
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_3--015835-022586": {
+            "length": 6752,
+            "id": 288,
+            "text": 3,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--022607-028306": {
+            "length": 5700,
+            "id": 291,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1330--JMQ748--IMJ170--KVD517--RCX311--pilot--MotionPrior3--Hand_Duo_6--028457-029345": {
+            "length": 889,
+            "id": 295,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "FZL441": {
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_5--022684-029432": {
+            "length": 6749,
+            "id": 296,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_6--015912-022663": {
+            "length": 6752,
+            "id": 300,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "PHF514": {
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_5--022684-029432": {
+            "length": 6749,
+            "id": 297,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_6--015912-022663": {
+            "length": 6752,
+            "id": 301,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "UVI239": {
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_5--022684-029432": {
+            "length": 6749,
+            "id": 298,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_6--015912-022663": {
+            "length": 6752,
+            "id": 302,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    },
+    "VLN633": {
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_5--022684-029432": {
+            "length": 6749,
+            "id": 299,
+            "text": 5,
+            "multiperson": null,
+            "audio": null
+        },
+        "c--20250603--1515--PHF514--UVI239--FZL441--VLN633--pilot--MotionPrior3--Hand_Duo_6--015912-022663": {
+            "length": 6752,
+            "id": 303,
+            "text": 6,
+            "multiperson": null,
+            "audio": null
+        }
+    }
+}
