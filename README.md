@@ -193,7 +193,7 @@ We provide additional functionality for the dataloader.
 
 ## Citation
 
-If you use this dataset, please consider citing this work via:
+If you use this dataset, please consider citing the [tech report](https://arxiv.org/pdf/2510.16258):
 
 ```
 @techreport{mclean2025embody3d,
@@ -203,6 +203,7 @@ If you use this dataset, please consider citing this work via:
   year      = {2025},
   type      = {Technical Report},
   note      = {arXiv preprint},
+  url       = {https://arxiv.org/pdf/2510.16258},
 }
 ```
 
