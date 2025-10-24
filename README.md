@@ -1,7 +1,7 @@
 # Embody 3D ✨
 
 Official repo for [Embody 3D dataset](https://www.meta.com/emerging-tech/codec-avatars/embody-3d/).
-Included in this rep:
+Included in this repo:
 * 📝 [Overview](#overview): information about the dataset
 * ⏬ [Download Data](#download-data): scripts to obtain the full dataset or subsets of the dataset
 * 🔖 [Dataset Description](#dataset-description): high level overview of how the dataset is formatted
@@ -56,7 +56,7 @@ If you want to download only certain features, you can set the flag `--feat`. Fo
 python src/download.py --src download.txt --feat text
 ```
 
-Similarly, if you want to donwload only certain categories, you an set the flag `--category`. For instance, to just download charades,
+Similarly, if you want to download only certain categories, you an set the flag `--category`. For instance, to just download charades,
 ```
 python src/download.py --src download.txt --category charades
 ```
@@ -99,7 +99,7 @@ datasets
 >[!Note]
 >When downloading the 7 categories, **some are composed of more subsections**. Eg. multiperson is composed of "emotions", "location", "polyadic", and "icebreakers".
 >The untar will automatically split into these subsections, and each will have it's own `dataset.json`.
->You can continue to [Expore the Dataset](#add-ons-important-flags-to-know-about) (see item 4) to see how to combine these sections.
+>You can continue to [Explore the Dataset](#add-ons-important-flags-to-know-about) (see item 4) to see how to combine these sections.
 
 ### Feature Descriptions: how to interpret the folders/files...
 These are the features that every capture directory has:
@@ -164,7 +164,7 @@ We provide additional functionality for the dataloader.
    ```
    --load_multiperson
    ```
-   to load the assets of the invidiuals interacting in the scene.
+   to load the assets of the individuals interacting in the scene.
 3. If you want to load all possible assets, you can run the following to load all possible assets.
    However, since not all annotations are available for every section,
     the run file will print a warning when the asset is not found.
@@ -185,7 +185,7 @@ We provide additional functionality for the dataloader.
     The default is set to 600 frames (20 seconds).
 
 >[!Tip]
-> If you immediately get a No such file or directory, you are likely not passing in the correct annotation label or your file strucutre is wrong.
+> If you immediately get a No such file or directory, you are likely not passing in the correct annotation label or your file structure is wrong.
 > make sure your data path points to one of the categories e.g. acting/ emotions/
 
 >[!Note]
