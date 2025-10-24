@@ -15,7 +15,7 @@ import torch
 import torch.nn as nn
 import trimesh
 from pyrender.constants import RenderFlags
-from typedio.auto import typed
+from load_obj import load_obj
 
 os.environ["PYOPENGL_PLATFORM"] = "egl"
 trimesh.util.log.setLevel("ERROR")
@@ -31,7 +31,7 @@ class PyrenderRenderer(nn.Module):
         magnification_factor: float = 1.0,  # 1000.0,
     ):
         super().__init__()
-        topology_dict = typed.load(topology_path)
+        topology_dict = load_obj(topology_path)
         self.faces = topology_dict["vi"]
         if campos is None:
             self.at = (0.0, -1.0, 0.0)
