@@ -25,7 +25,7 @@ Please refer to the [download](#download-data) section for how to retrieve the d
 ### Annotation Table
 |   Section  | Hours | Body Shape | Hands | Audio | Text | MultiPerson |
 |--------------|-------|------------|------|---|---|---|
-| Charades 🎲| 88.9 | ✔️ | ✔️ |  <span style="color: red;">&#10006;</span> | ✔️|  <span style="color: red;">&#10006;</span> |
+| Charades 🎲| 88.9 | ✔️ | ✔️ |  <span style="color: red;">&#10006;</span> | (✔️)|  <span style="color: red;">&#10006;</span> |
 | Hand Interactions 🙌 | 111.3 | ✔️ | ✔️ | <span style="color: red;">&#10006;</span> | <span style="color: red;">&#10006;</span> | <span style="color: red;">&#10006;</span> |
 | Locomotion 🚶‍♀️ | 21.0 | ✔️ | ✔️ | <span style="color: red;">&#10006;</span> | (✔️) | <span style="color: red;">&#10006;</span> |
 | Dyadic Conversations 🧑‍🤝‍🧑 | 59.4 | ✔️ | ✔️ | ✔️ | (✔️) | ✔️ |
